@@ -31,6 +31,7 @@ vim ./inventory/sample/inventory.ini
 - 初始化各个节点
 ```commandline
 ansible-playbook -i inventory/sample/inventory.ini initlinux.yaml
+该步骤执行中会重启主机清单中的主机
 ```
 - 安装k8s集群
 ```commandline
