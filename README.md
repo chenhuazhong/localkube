@@ -5,7 +5,7 @@
 * k8s集群master和node节点操作系统为centos7
 
 
-![alt k8s部署图](./file/k8s_env.png)
+![alt k8s部署图](https://github.com/chenhuazhong/localkube/raw/main/file/k8s_env.png)
 
 
 ### 简介
